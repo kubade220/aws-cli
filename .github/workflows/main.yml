@@ -1,4 +1,0 @@
-- name: Checkout repository
-  uses: actions/checkout@v2
-  with:
-    fetch-depth: 0 # This is a required field for CodeGuru
